@@ -1,0 +1,2 @@
+I also tried to program this system with web application which can be reachable from swaggerUI.I imagened that with this way it can take multiple json files at the same time and can give output accordingly but it was not fit the output structure so I gave up on it. But anyways here is the that you can use with the console.
+Also if you consider, the web api version of the program in my .NET Practices repository in github.

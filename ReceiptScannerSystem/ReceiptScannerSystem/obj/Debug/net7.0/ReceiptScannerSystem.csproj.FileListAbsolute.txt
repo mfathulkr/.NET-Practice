@@ -1,0 +1,17 @@
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\bin\Debug\net7.0\ReceiptScannerSystem.exe
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\bin\Debug\net7.0\ReceiptScannerSystem.deps.json
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\bin\Debug\net7.0\ReceiptScannerSystem.runtimeconfig.json
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\bin\Debug\net7.0\ReceiptScannerSystem.dll
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\bin\Debug\net7.0\ReceiptScannerSystem.pdb
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.csproj.AssemblyReference.cache
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.AssemblyInfoInputs.cache
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.AssemblyInfo.cs
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.csproj.CopyComplete
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.dll
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\refint\ReceiptScannerSystem.dll
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.pdb
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ReceiptScannerSystem.genruntimeconfig.cache
+C:\Users\Mehmet Fatih ÜLKER\source\repos\ReceiptScannerSystem\ReceiptScannerSystem\obj\Debug\net7.0\ref\ReceiptScannerSystem.dll
